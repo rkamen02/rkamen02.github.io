@@ -3,8 +3,8 @@
 Assignment 1
 Ross Kamen
 
-1. Website is working. CSS file is not linking up with other files. All the rest look great online.
+1. All links are working. Only thing left is to make the redirect from CS to github work.
 
 2. I have not collaborated with anyone.
 
-3. Three hours spent so far.
+3. Four hours spent so far.
