@@ -3,8 +3,10 @@
 Assignment 1
 Ross Kamen
 
-1. All links are working. Only thing left is to make the redirect from CS to github work.
+Resume website built using cs.tufts.edu server at https://cs.tufts.edu/~rkamen02/ which redirects to rkamen02.github.io.
+
+1. Everything up and running!
 
 2. I have not collaborated with anyone.
 
-3. Four hours spent so far.
+3. 4-5 hours spent.
