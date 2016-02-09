@@ -1,7 +1,33 @@
 /* stylesheet for whole portfolio */
 
-h1 {
-	font-family: Helvetica;
-	color: blue;
+body {
+	background-color: 
 }
 
+h1 {
+	font-family: Georgia;
+	font-size: 30px
+	color: blue;
+	text-align: center;
+}
+
+h2 {
+	font-family: Georgia;
+	font-size: 20px;
+	color: blue;
+	margin-left: 10%;
+}
+
+p {
+	font-family: Georgia;
+	font-size: 15px;
+	color: black;
+	margin-left: 15%;
+}
+
+ul {
+	font-family: Georgia;
+	font-size: 10px;
+	color: black;
+	margin-left: 20%
+}
