@@ -3,7 +3,7 @@
 Assignment 1
 Ross Kamen
 
-Resume website built using cs.tufts.edu server at https://cs.tufts.edu/~rkamen02/ which redirects to rkamen02.github.io.
+Resume website hosted on cs.tufts.edu server at https://cs.tufts.edu/~rkamen02/ which redirects to rkamen02.github.io.
 
 1. Everything up and running!
 
