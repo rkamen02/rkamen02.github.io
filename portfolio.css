@@ -1,7 +1,7 @@
 /* stylesheet for whole portfolio */
 
 body {
-	background-color: yellow; 
+	background-color: #FFFFCC; 
 }
 
 h1 {
@@ -29,4 +29,8 @@ ul {
 	font-size: 12px;
 	color: black;
 	margin-left: 15%;
+}
+
+img {
+	vertical-align: center;
 }
