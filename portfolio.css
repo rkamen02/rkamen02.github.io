@@ -10,6 +10,16 @@ h1 {
 	text-align: center;
 }
 
+#main-img {
+
+    -webkit-filter: blur(20px);
+    -moz-filter: blur(20px);
+    -o-filter: blur(20px);
+    -ms-filter: blur(20px);
+    filter: blur(20px);
+
+}
+
 h2 {
 	font-family: Georgia;
 	font-size: 20px;
