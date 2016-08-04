@@ -10,7 +10,7 @@ h1 {
 	text-align: center;
 }
 
-#main_img {
+#blurred_img {
 
     -webkit-filter: blur(20px);
     -moz-filter: blur(20px);
