@@ -10,6 +10,16 @@ h1 {
 	text-align: center;
 }
 
+.img {
+
+    position:absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+
+}
+
 #blurred_img {
 
     -webkit-filter: blur(20px);
@@ -42,5 +52,5 @@ ul {
 }
 
 img {
-	vertical-align: center;
+    position: center
 }
